@@ -1,0 +1,10 @@
+C:\Learn\SOWWeb\SOWWeb.Entities\bin\Debug\netcoreapp3.1\SOWWeb.Entities.deps.json
+C:\Learn\SOWWeb\SOWWeb.Entities\bin\Debug\netcoreapp3.1\SOWWeb.Entities.dll
+C:\Learn\SOWWeb\SOWWeb.Entities\bin\Debug\netcoreapp3.1\SOWWeb.Entities.pdb
+C:\Learn\SOWWeb\SOWWeb.Entities\obj\Debug\netcoreapp3.1\SOWWeb.Entities.csproj.AssemblyReference.cache
+C:\Learn\SOWWeb\SOWWeb.Entities\obj\Debug\netcoreapp3.1\SOWWeb.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\SOWWeb\SOWWeb.Entities\obj\Debug\netcoreapp3.1\SOWWeb.Entities.AssemblyInfoInputs.cache
+C:\Learn\SOWWeb\SOWWeb.Entities\obj\Debug\netcoreapp3.1\SOWWeb.Entities.AssemblyInfo.cs
+C:\Learn\SOWWeb\SOWWeb.Entities\obj\Debug\netcoreapp3.1\SOWWeb.Entities.csproj.CoreCompileInputs.cache
+C:\Learn\SOWWeb\SOWWeb.Entities\obj\Debug\netcoreapp3.1\SOWWeb.Entities.dll
+C:\Learn\SOWWeb\SOWWeb.Entities\obj\Debug\netcoreapp3.1\SOWWeb.Entities.pdb

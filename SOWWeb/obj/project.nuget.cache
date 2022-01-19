@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pc4fc2JK43Cq2qhkIPjSu4eREsFW3e2iy7Hmt2l3saE6oeIzp6JeiieBQxlXx/WAuVsahDPebKWfzpCs+VeHCw==",
+  "success": true,
+  "projectFilePath": "C:\\Learn\\SOWWeb\\SOWWeb\\SOWWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Srinivas_Topoji\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
+    "C:\\Users\\Srinivas_Topoji\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Srinivas_Topoji\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Srinivas_Topoji\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

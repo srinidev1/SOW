@@ -1,0 +1,13 @@
+﻿@model IReadOnlyList<SOWWeb.Models.CorporationVM>
+@{
+    ViewData["Title"] = "Alternate Entity Search";
+}
+<h1 class="text-center" style="color:red;font-weight:bold">Hello am Page 2</h1>
+
+<div class="container">
+    <partial name="_EntitySearchPartial" model="Model" />
+
+    <div class="d-flex justify-content-center mt-5">
+        <input type="button" value="Click Me" onclick="javsacript: alert('Test Successful.')" />
+    </div>
+</div>

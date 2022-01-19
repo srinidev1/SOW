@@ -1,0 +1,24 @@
+﻿@model SOWWeb.Models.FilingResponseVM
+
+<div class="card">
+    <div class="card-header">
+        <h4 class="text-uppercase">Filing Types</h4>
+    </div>
+    <div class="card-body">
+        <form asp-action="" method="post">
+            <div class="form-group">
+                <label>Filing Type</label>
+                @Html.DropDownListFor(x => x.SelectedFilingType, Model.FilingTypes)
+
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-sm btn-primary rounded-0" name="GetFilingType" value="Get FilingType"  formaction="FilingType" />
+                <input type="submit" class="btn btn-sm btn-primary rounded-0" name="GetFilingFee" value="Get FilingFee" formaction="FilingFee"/>
+                <input type="submit" class="btn btn-sm btn-primary rounded-0" name="GetFilingFee" value="Get FilingCode" formaction="FilingTypeCode" />
+            </div>
+            <div class="form-group">
+                @Model.ResponseMessage
+            </div>
+        </form>
+    </div>
+</div>  

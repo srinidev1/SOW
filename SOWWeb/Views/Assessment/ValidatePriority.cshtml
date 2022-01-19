@@ -1,0 +1,39 @@
+﻿@model SOWWeb.Models.MyViewModel
+
+@{
+    ViewData["Title"] = "New";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h4 class="text-uppercase">Validate Priority</h4>
+    </div>
+    <div class="card-body">
+        <form asp-action="ValidatePriority">
+            <div class="form-group">
+                <label asp-for="Priority" class="label-control"></label>
+                <input asp-for="Priority" class="form-control" />
+                <span asp-validation-for="Priority" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="DateStart" class="label-control"></label>
+                        <input asp-for="DateStart" class="form-control" />
+                        <span asp-validation-for="DateStart" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="DateEnd" class="label-control"></label>
+                        <input asp-for="DateEnd" class="form-control" />
+                        <span asp-validation-for="DateEnd" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-sm btn-primary rounded-0">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>  

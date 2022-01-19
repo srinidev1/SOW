@@ -1,0 +1,13 @@
+C:\Learn\SOWWeb\SOWWeb.Services\bin\Debug\netcoreapp3.1\SOWWeb.Services.deps.json
+C:\Learn\SOWWeb\SOWWeb.Services\bin\Debug\netcoreapp3.1\SOWWeb.Services.dll
+C:\Learn\SOWWeb\SOWWeb.Services\bin\Debug\netcoreapp3.1\SOWWeb.Services.pdb
+C:\Learn\SOWWeb\SOWWeb.Services\obj\Debug\netcoreapp3.1\SOWWeb.Services.csproj.AssemblyReference.cache
+C:\Learn\SOWWeb\SOWWeb.Services\obj\Debug\netcoreapp3.1\SOWWeb.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\SOWWeb\SOWWeb.Services\obj\Debug\netcoreapp3.1\SOWWeb.Services.AssemblyInfoInputs.cache
+C:\Learn\SOWWeb\SOWWeb.Services\obj\Debug\netcoreapp3.1\SOWWeb.Services.AssemblyInfo.cs
+C:\Learn\SOWWeb\SOWWeb.Services\obj\Debug\netcoreapp3.1\SOWWeb.Services.csproj.CoreCompileInputs.cache
+C:\Learn\SOWWeb\SOWWeb.Services\obj\Debug\netcoreapp3.1\SOWWeb.Services.csproj.CopyComplete
+C:\Learn\SOWWeb\SOWWeb.Services\obj\Debug\netcoreapp3.1\SOWWeb.Services.dll
+C:\Learn\SOWWeb\SOWWeb.Services\obj\Debug\netcoreapp3.1\SOWWeb.Services.pdb
+C:\Learn\SOWWeb\SOWWeb.Services\bin\Debug\netcoreapp3.1\SOWWeb.Core.dll
+C:\Learn\SOWWeb\SOWWeb.Services\bin\Debug\netcoreapp3.1\SOWWeb.Core.pdb

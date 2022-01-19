@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SOWWeb.Core/1.0.0": {
+        "runtime": {
+          "SOWWeb.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOWWeb.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

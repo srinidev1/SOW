@@ -1,0 +1,27 @@
+﻿@model IReadOnlyList<SOWWeb.Models.CorporationVM>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th style="width:25%">File No#</th>
+            <th style="width:50%">Corporation Name</th>
+            <th style="width:25%">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var corporation in Model)
+        {
+            <tr>
+                <td>
+                    @corporation.CorporationNumber
+                </td>
+                <td>
+                    @corporation.CorporationName
+                </td>
+                <td>
+                    @corporation.Status
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
